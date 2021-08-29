@@ -1,0 +1,2 @@
+Se agrego una etiqueta "meta name" con diferentes keywords para que encontrar la pagina sea mas facil al relacionarla con su tema.
+Se agrego una etiqueta meta description con una breve descripcion de las actividades de la empresa
